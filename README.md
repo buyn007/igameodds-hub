@@ -1,2 +1,14 @@
 # igameodds-hub
-HTML page archive and documentation
+
+资料页面发布仓库
+
+这个仓库用于静态页面归档，主要保存 HTML 文件和说明信息。
+
+## 文件
+
+- 页面文件会直接写入仓库根目录
+- 仓库说明保存在 README.md
+
+## 维护方式
+
+发布程序会按配置写入文件，手动修改时请保留现有结构。
